@@ -20,3 +20,4 @@ def handler(event, context):
               }
           )
        print("PutItem succeeded:")
+print("test1")
